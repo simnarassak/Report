@@ -1,2 +1,2 @@
 # Report
-<img src="Report.png" width="128"/>
+<img src="Report.png" width="100"/>
