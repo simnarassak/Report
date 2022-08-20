@@ -1,2 +1,2 @@
 # Report
-<img src="Report.png" width="100"/>
+<img src="Report.png" width="\linewidth"/>
